@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "slug": "prepper",
+      "name": "Prepper",
+      "description": "Explore Prepper's documentation and project roadmap.",
+      "repository": "maxbilbow/prepper",
+      "branch": "main",
+      "workflow": "ci.yml",
+      "source": "github.io/prepper"
+    }
+  ]
+}
